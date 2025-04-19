@@ -1,1 +1,0 @@
-import{r}from"./es-define-property-D_uuc9Es.js";var e=r(),t=function(){return!!e};t.hasArrayLengthDefineBug=function(){if(!e)return null;try{return 1!==e([],"length",{value:1}).length}catch(r){return!0}};var n=t;export{n as h};
